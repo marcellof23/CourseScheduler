@@ -1,0 +1,4 @@
+Semester I : Aljabar Linear, Aljabar Matriks, Geometri Bidang, Kalkulus Diferensial.
+Semester II : Geometri Analitik Bidang, Geometri Ruang, Kalkulus Integral, Program Linear.
+Semester III : Analisis Vektor, Geometri Analitik Ruang, Kalkulus Peubah Banyak.
+Waktu yang dibutuhkan : 0.004 detik
